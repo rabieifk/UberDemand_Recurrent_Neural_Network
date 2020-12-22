@@ -1,5 +1,5 @@
 # UberDemand_Recurrent_Neural_Network
-Multivariate Time Series Forecasting with LSTMs for prediction in UberDemand dataset
+**Objective:** Multivariate Time Series Forecasting with LSTMs for prediction in UberDemand dataset
 
 Forecasting is one of the applications of [RNNs (Recurrent Neural Networks)](https://en.wikipedia.org/wiki/Recurrent_neural_network), and in this project, the objective is to use an RNN to predict the number of online uber taxi calls in four parts of New York City for the upcoming hour.
 
